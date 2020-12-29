@@ -2,7 +2,7 @@
 Unit 14 Homework 
 
 
-Homework/Homework14/Images/deep-learning.jpg
+![deep-learning](https://user-images.githubusercontent.com/69773959/103307264-db84c680-49cc-11eb-8a6f-7ba9c8760f98.jpg)
 
 
 Due to the volatility of cryptocurrency speculation, investors will often try to incorporate sentiment from social media and news articles to help guide their trading strategies. One such indicator is the Crypto Fear and Greed Index (FNG) which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency. You have been asked to help build and evaluate deep learning models using both the FNG values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
