@@ -51,10 +51,10 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 ### Which model has a lower loss? 
-#### The model for predicting price using the closing prices had the lower loss mean squared error of 0.0363 compared to 0.2016 from the sentiment based model
+> The model for predicting price using the closing prices had the lower loss mean squared error of 0.0363 compared to 0.2016 from the sentiment based model
 >
 ### Which model tracks the actual values better over time?
-#### The LSTM Stock Predictor closing model tracksd better over time than the LSTM Stock Predictor FNG
+> The LSTM Stock Predictor closing model tracksd better over time than the LSTM Stock Predictor FNG
 
 ### Closing prices model: Predicted vs Real
 ![image](https://user-images.githubusercontent.com/69773959/104032790-e76e4680-518b-11eb-8d37-97500769adde.png)
@@ -65,7 +65,7 @@ Use the above to answer the following:
 
 >
 #### Which window size works best for the model?
-### For both models a window of 1 results in lower values for loss function, hence works best for the models
+> For both models a window of 1 results in lower values for loss function, hence works best for the models
 
 FNG
 
